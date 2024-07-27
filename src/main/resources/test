@@ -1,0 +1,28 @@
+module program;
+  const
+    min=20;
+  var
+    num:integer;
+	x:real;
+	y:real;
+  procedure procedure2;
+    var
+	  n:integer;
+	begin
+	  n:= 10.9;
+	  writeint(n);
+	end compute ;
+
+  begin
+    readreal(num,y);
+	readint(x,num);
+	if num > max then
+	  num:=num+2;
+	else
+	  num :=num-5;
+	end;
+	writeint(num);
+	call procedure2;
+	writereal(x);
+	exit;
+  end program .
