@@ -9,6 +9,5 @@ This project is an implementation of an LL1 parser using Java and JavaFX. The LL
 - Java Development Kit (JDK) 8 or higher
 - JavaFX SDK (if not bundled with your JDK)
 
-### Steps
-1. **Clone the repository**:
+ **Clone the repository**:
    git clone https://github.com/HazemEw/LL1-parser.git
